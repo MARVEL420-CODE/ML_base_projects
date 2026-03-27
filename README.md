@@ -118,7 +118,3 @@ Make sure the dataset file (`dataset.csv`) is in the same folder as the script.
 **Purushoth Marvel**
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
